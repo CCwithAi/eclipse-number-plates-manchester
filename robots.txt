@@ -1,0 +1,3 @@
+Sitemap: https://ccwithai.github.io/eclipse-number-plates-manchester/sitemap.xml
+User-agent:*
+Disallow:
